@@ -18,13 +18,21 @@ I'm currently focusing heavily on web vulnerabilities and penetration testing.
 Web vulns that I'm learning:
 
 SQL Injection
+
 Cross-Site Scripting (XSS)
+
 Authentication vulnerabilities
+
 Access control
+
 Server-Side Request Forgery (SSRF)
+
 Cross-Site Request Forgery (CSRF)
+
 Path Traversal
+
 Command Injection
+
 API security
 
 I've completed ~50 labs on PortSwigger Web Security Academy, using them to gain practical understanding of common web vulnerabilities.
@@ -38,10 +46,15 @@ I have basic Linux knowledge and am continuing to improve my cmd line skills, sy
 I have a basic understanding of networking fundamentals, including concepts like:
 
 TCP/IP
+
 HTTP/HTTPS
+
 DNS
+
 Ports & protocols
+
 IP addressing
+
 Network communication
 
 # Projects I've made/plan on working on with python

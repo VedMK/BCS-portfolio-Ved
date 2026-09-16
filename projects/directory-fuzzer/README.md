@@ -33,8 +33,8 @@ Example->
 Target: http://127.0.0.1:8000
 
 Output:
-URL: http://127.0.0.1:8000/login, Status Code: 200, Body Length: 565
-URL: http://127.0.0.1:8000/admin, Status Code: 403, Body Length: 234
+- URL: http://127.0.0.1:8000/login, Status Code: 200, Body Length: 565
+- URL: http://127.0.0.1:8000/admin, Status Code: 403, Body Length: 234
 
 
 # Computer tech used

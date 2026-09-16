@@ -30,11 +30,11 @@ It then constructs URLs from the wordlist and sends HTTP requests to the target.
 Responses are displayed based on their HTTP status code.
 
 Example->
-Target: http://127.0.0.1:8000
+Target: -http://127.0.0.1:8000
 
 Output:
-URL:http://127.0.0.1:8000/login,Status Code: 200, Body Length: 565
-URL:http://127.0.0.1:8000/admin,Status Code: 403, Body Length: 234
+URL: -http://127.0.0.1:8000/login, Status Code: 200, Body Length: 565
+URL: -http://127.0.0.1:8000/admin, Status Code: 403, Body Length: 234
 
 
 # Computer tech used

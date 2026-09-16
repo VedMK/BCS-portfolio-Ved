@@ -1,6 +1,6 @@
 # Say hello to my Cybersecurity Portfolio
 
-Hi! I'm Ved, a Grade 12 student and an aspiring Penetration Tester & Cloud Security Engineer.
+Hi! I'm Ved, a HS student, an aspiring Penetration Tester & Cloud Security Engineer.
 
 This repo documents my journey into cybersecurity from the basics which I'm currently learning to the hands on labs, projects and research I've completed along the way.
 

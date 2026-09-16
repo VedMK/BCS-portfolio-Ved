@@ -1,4 +1,4 @@
-import requests as req
+import requests as req # requests library is a requirement, ensure you have it installed using pip install requests
 
 target=input("Insert domain name/ip-address here")
 dir_file="directories.txt"

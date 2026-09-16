@@ -12,12 +12,12 @@ The personal goal for this project was to understand how directory and file disc
 
 Through this project, I'm exploring:
 
-HTTP requests and responses
-HTTP status codes
-Wordlists
-Automated content discovery
-Python scripting
-Basic penetration testing methodology
+- HTTP requests and responses
+- HTTP status codes
+- Wordlists
+- Automated content discovery
+- Python scripting
+- Basic penetration testing methodology
 
 # How It Works
 

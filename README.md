@@ -1,6 +1,6 @@
 # Say hello to my Cybersecurity Portfolio
 
-Hi! I'm Ved, a HS student, an aspiring Penetration Tester & Cloud Security Engineer.
+Hi! I'm Ved, a grade 12 student, an aspiring Penetration Tester & Cloud Security Engineer.
 
 This repo documents my journey into cybersecurity from the basics which I'm currently learning to the hands on labs, projects and research I've completed along the way.
 
@@ -9,6 +9,8 @@ This repo documents my journey into cybersecurity from the basics which I'm curr
 I'm currently exploring offensive security, mostly in understanding how web applications can be attacked and how they can be built more securely.
 
 My long term goal is to build a strong foundation in cybersecurity and build up to Cloud Security Engineering.
+
+I am building this portfolio to get shortlisted for the IIK Bachelors of Cybersecurity program. I believe I will get a good head start into the field with the program, as well as my learnings from preparing for it.
 
 # What I'm Currently Learning/progress I've made
 Web Application Security

@@ -30,10 +30,10 @@ DATE/TIME/DATETIME,IP,USER,STATUS
 
 For example:
 
-10:30,192.168.1.10,admin,success
-10:31,192.168.1.25,admin,failed
-10:32,192.168.1.25,admin,failed
-10:33,192.168.1.25,admin,failed
+-10:30,192.168.1.10,admin,success
+-10:31,192.168.1.25,admin,failed
+-10:32,192.168.1.25,admin,failed
+-10:33,192.168.1.25,admin,failed
 
 The program:
 

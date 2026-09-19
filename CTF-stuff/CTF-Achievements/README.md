@@ -12,7 +12,7 @@ I am majorly learning on these sites:
 
 # Update on achievements/progress
 
-`Keeping a track of my progress over time. This allows the viewer to see the legitimacy of my work, achievements and progression)
+`Keeping a track of my progress over time. This allows the viewer to see the legitimacy of my work, achievements and progression)`
 
 ## Update 1 
 `(19/9/2026)` 

@@ -6,7 +6,7 @@ These projects are focused on applying what I learn through practical and hands 
 
 ## Projects
 
-- **[Log Analyzer](./log-analyzer/)** — Python-based log analysis and failed login detection.
+- **[Log Analyzer](https://github.com/VedMK/BCS-portfolio-Ved/tree/main/projects/Log-Analyzer)** — Python-based log analysis and failed login detection.
 - **[Directory Fuzzer](./directory-fuzzer/)** — Basic Python tool for web content discovery.
 
 More projects will be added as I continue learning and building.

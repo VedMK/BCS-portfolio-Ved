@@ -70,3 +70,7 @@ I have a basic understanding of networking fundamentals, including concepts like
 I will continue exploring,understanding and implementing knowledge I gain from fields in cybersecurity that are relevant to building my future.
 
 This portfolio is a work in progress and will grow alongside my cybersecurity journey.
+
+# Some people I want to mention
+
+Thank you Karthik bhaiya and my brother Rishi for helping me to learn efficiently and effectively through this journey. I also want to thank my parents for supporting and motivating me to work on this.

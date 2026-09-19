@@ -72,7 +72,7 @@ If an IP reaches the threshold, it is added to the list of suspicious IPs.
 
 This is a basic detection mechanism and does not simply mean the IP is malicious, it just means the IP needs to be investigated further.
 
-# Technologies Used
+# Comp Tech Used
 
 - Python
 - CSV/structured log files
@@ -80,13 +80,13 @@ This is a basic detection mechanism and does not simply mean the IP is malicious
 - Dictionaries
 - Git & GitHub
 
-# Current Status
+Status:
 
 Early development
 
 The current version is intentionally simple.
 
-Planned improvements include:
+# Future plans
 
 - Better log validation
 - More detailed reports

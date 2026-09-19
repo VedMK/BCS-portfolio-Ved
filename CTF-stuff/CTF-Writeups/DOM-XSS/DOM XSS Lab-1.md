@@ -16,15 +16,17 @@ The objective of the lab is to perform a Cross-Site Scripting attack that calls 
 
 ## Reconnaissance
 
-After reading the lab description, my first thought was to input a search value in the search bar of the application.
+After reading the lab description, I first decided to find the input field, which was right at the front of the page. My first thought was to input a search value in the search bar of the application and observe any changes.
+
+![input field](Lab-1-0.png)
 
 I then began exploring the application's code using Burp Suite to understand how the search input was being processed.
 
-### Interesting Input
+### Discoveries
 
 Upon exploring the application's code, I discovered the JavaScript function responsible for writing the search value into the page.
 
-![Input](./input.png)
+![js](Lab1-1.png)
 
 ### Source
 
@@ -84,7 +86,7 @@ I then attempted to change the `search` param to see if it injects HTML into the
 
 The payload was placed into the `search` parameter of the URL.
 
-![payload](payload.png)
+![payload](Lab1-payload.png)
 
 The injected input was interpreted as HTML by the browser, allowing JavaScript to be executed.
 

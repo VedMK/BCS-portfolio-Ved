@@ -94,7 +94,7 @@ The injected input was interpreted as HTML by the browser, allowing JavaScript t
 
 The payload successfully triggered the `alert()` function, confirming the vulnerability.
 
-![Labsolved](solved.png)
+![Labsolved](Lab1-solved.png)
 
 ---
 

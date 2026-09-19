@@ -39,14 +39,15 @@ Output:
 
 # Computer tech used
 
-Python
-HTTP/HTTPS
-Web Security
-Git & GitHub
+- Python
+- HTTP/HTTPS
+- Web Security
+- Git & GitHub
 
 Current Status->
 
 Early development
+
 The current version is intentionally simple.
 
 # Ethical Use

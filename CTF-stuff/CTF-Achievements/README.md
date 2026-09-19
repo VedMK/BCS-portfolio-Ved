@@ -1,10 +1,14 @@
 # My accounts on different cybersecurity related platforms can be found below
 
-- [Tryhackme](https://tryhackme.com/p/VKCyber)
-- [HackTheBox](https://profile.hackthebox.com/profile/019eff7a-3185-7083-ad8f-1639a0dafa19?utm_medium=copy_url)
-- PortSwiggerWebAcademy(It doesn't provide a profile sharing functionality, see image below)
+- [My Tryhackme Account](https://tryhackme.com/p/VKCyber)
+- [My HackTheBox Account](https://profile.hackthebox.com/profile/019eff7a-3185-7083-ad8f-1639a0dafa19?utm_medium=copy_url)
+- PortSwiggerWebAcademy `(It doesn't provide a profile sharing functionality, see image below)`
 
-I am majorly learning on these sites.
+I am majorly learning on these sites:
+- PortSwiggerWebAcademy
+- Tryhackme
+- HackTheBox
+- Overthewire.org
 
 # Update on achievements/progress
 

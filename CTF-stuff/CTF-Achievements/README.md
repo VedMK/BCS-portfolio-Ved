@@ -6,7 +6,11 @@
 
 I am majorly learning on these sites.
 
-# Update 1 
+# Update on achievements/progress
+
+`Keeping a track of my progress over time. This allows the viewer to see the legitimacy of my work, achievements and progression)
+
+## Update 1 
 `(19/9/2026)` 
-PortSwiggerWebAcademy. (Image and update serial will increase each update I provide here. This is to keep track of my progress over time)
+PortSwiggerWebAcademy. (Update 1 after a month of learning)
 ![PSWA1](PSWA1.png)

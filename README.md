@@ -12,7 +12,7 @@ My long term goal is to build a strong foundation in cybersecurity and build up 
 
 I am building this portfolio to get shortlisted for the IIK Bachelors of Cybersecurity program. I believe I will get a good head start into the field with the program, as well as my learnings from preparing for it.
 
-I also have a [youtube channel](https://www.youtube.com/@VK-Cyber) where I post videos related to python projects and guides/walkthroughs for [Overthewire.org](Overthewire.org) wargames.
+I also have a [youtube channel](https://www.youtube.com/@VK-Cyber) where I post videos related to python projects and guides/walkthroughs for [Overthewire.org](https://Overthewire.org) wargames.
 
 # What I'm Currently Learning/progress I've made
 Web Application Security

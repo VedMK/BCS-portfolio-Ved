@@ -2,7 +2,7 @@
 
 - [My Tryhackme Account](https://tryhackme.com/p/VKCyber)
 - [My HackTheBox Account](https://profile.hackthebox.com/profile/019eff7a-3185-7083-ad8f-1639a0dafa19?utm_medium=copy_url)
-- PortSwiggerWebAcademy `(It doesn't provide a profile sharing functionality, see image below)`
+- PortSwiggerWebAcademy `(It doesn't provide a profile sharing functionality, see updates below)`
 
 I am majorly learning on these sites:
 - PortSwiggerWebAcademy

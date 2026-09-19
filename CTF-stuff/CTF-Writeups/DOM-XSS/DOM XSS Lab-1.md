@@ -18,7 +18,7 @@ The objective of the lab is to perform a Cross-Site Scripting attack that calls 
 
 After reading the lab description, I first decided to find the input field, which was right at the front of the page. My first thought was to input a search value in the search bar of the application and observe any changes.
 
-![input field](Lab-1-0.png)
+![input field](Lab1-0.png)
 
 I then began exploring the application's code using Burp Suite to understand how the search input was being processed.
 

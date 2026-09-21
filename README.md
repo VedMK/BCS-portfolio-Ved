@@ -21,7 +21,7 @@ I also have a [youtube channel](https://www.youtube.com/@VK-Cyber) where I post 
 
 
 <p align="center">
-<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22What%20I%27m%20Currently%20Learning%2Fprogress%20I%27ve%20made%22%2C%22color%22%3A%22%23FFD700%22%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&typingSpeed=0.08&deleteSpeed=0.04&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
+<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22My%20progress%22%2C%22color%22%3A%22%23FFD700%22%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&typingSpeed=0.08&deleteSpeed=0.04&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
 Web Application Security

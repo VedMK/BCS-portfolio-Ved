@@ -1,4 +1,4 @@
-![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=[{"text":"Ved's%20Cybersecurity%20portfolio%20🖥️"}]&font=JetBrains%20Mono&color=%2300FF88&backgroundColor=%230D1117&width=900&height=200&typingSpeed=1&deleteSpeed=0.5&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1)
+![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=[{"text":"Ved's%20Cybersecurity%20portfolio%20🖥️"}]&font=JetBrains%20Mono&color=%23FFFF00&backgroundColor=%23000000&width=900&height=200&typingSpeed=1&deleteSpeed=0.5&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1)
 
 
 Hi! I'm Ved, a grade 12 student, an aspiring Penetration Tester & Cloud Security Engineer.

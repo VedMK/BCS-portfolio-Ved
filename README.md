@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Ved%27s%20Cybersecurity%20portfolio%20%F0%9F%96%A5%EF%B8%8F%22%2C%22color%22%3A%22%23FFD700%22%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&typingSpeed=0.01&deleteSpeed=0.02&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
+<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Ved%27s%20Cybersecurity%20portfolio%20%F0%9F%96%A5%EF%B8%8F%22%2C%22color%22%3A%22%23FFD700%22%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&typingSpeed=1&deleteSpeed=1&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
 <p align="center">

@@ -17,7 +17,8 @@ I am majorly learning on these sites:
 <p align="center">
 <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Updates%20on%20my%20progress%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.04%2C%22deleteSpeed%22%3A0.07%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
-`Keeping a track of my progress over time. This allows the viewer to see the legitimacy of my work, achievements and progression)`
+
+`Keeping a track of my progress over time. This allows the viewer to see the legitimacy of my work, achievements and progression`
 
 ## Update 1 
 `(19/9/2026)` 

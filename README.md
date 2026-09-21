@@ -21,13 +21,13 @@ This repository documents my journey into cybersecurity — from the fundamental
 <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22About%20Me%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.06333333333333333%2C%22deleteSpeed%22%3A0.08%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
-I'm currently exploring offensive security, with a particular interest in understanding how web applications can be attacked and how they can be built more securely.
+I'm currently exploring offensive security, mainly about how web applications can be attacked and how they can be secured.
 
-My long-term goal is to build a strong foundation in cybersecurity and eventually work towards Cloud Security Engineering.
+My long term goal is to make a strong cyber foundation and then move into Cloud Security Engineering.
 
-I'm building this portfolio as part of my preparation for the IIT Kanpur Bachelor's of Cybersecurity program. I want to use the program to build a strong foundation in the field while continuing to develop my skills through independent learning and hands-on work.
+I'm building this portfolio as part of my preparation for the IIT Kanpur Bachelor's of Cybersecurity program. I want to use the program to build a strong foundation in the field while continuing to develop my skills through self learning and practical implementation.
 
-I also have a [YouTube channel](https://www.youtube.com/@VK-Cyber) where I post videos about cybersecurity-related Python projects, guides, and walkthroughs for [OverTheWire](https://overthewire.org/wargames/) wargames.
+I also have a [YouTube channel](https://www.youtube.com/@VK-Cyber) where I post videos about cybersecurity related Python projects, guides, and walkthroughs for [OverTheWire](https://overthewire.org/wargames/) wargames.
 
 ---
 
@@ -37,13 +37,12 @@ I also have a [YouTube channel](https://www.youtube.com/@VK-Cyber) where I post 
 
 ## 🌐 Web Application Security
 
-I'm currently focusing heavily on web vulnerabilities and penetration testing.
+I'm currently focusing on web vulnerabilities and penetration testing.
 
 Some of the vulnerabilities I'm learning about include:
 
 <details>
 <summary><b>Web vulnerabilities I'm learning</b></summary>
-
 - SQL Injection
 - Cross-Site Scripting (XSS)
 - Authentication vulnerabilities
@@ -53,7 +52,6 @@ Some of the vulnerabilities I'm learning about include:
 - Path Traversal
 - Command Injection
 - API Security
-
 </details>
 
 I've completed **~50 labs on PortSwigger Web Security Academy**, using them to gain practical experience and a better understanding of common web vulnerabilities.
@@ -66,7 +64,7 @@ I'm also documenting some of the things I learn through writeups in my repositor
 <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22%F0%9F%90%A7%20Linux%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.06333333333333333%2C%22deleteSpeed%22%3A0.08%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
-I have a basic understanding of Linux and am continuing to improve my command-line skills, system administration knowledge, and understanding of Linux as a whole.
+I have a basic understanding of Linux and am continuing to improve my command line skills, system administration knowledge, and understanding of Linux as a whole.
 
 Some of the areas I've been learning include:
 
@@ -85,7 +83,7 @@ Some of the areas I've been learning include:
 </p>
 
 I have a basic understanding of networking fundamentals and am continuing to build my knowledge from the ground up.
-
+<center>
 | Area | Concepts |
 |---|---|
 | 🌐 TCP/IP | Network communication and protocols |
@@ -94,6 +92,7 @@ I have a basic understanding of networking fundamentals and am continuing to bui
 | 🔌 Ports & Protocols | Services and network communication |
 | 📍 IP Addressing | IPv4 and network addressing |
 | 🖧 Network Communication | How devices communicate |
+</center>
 
 ---
 
@@ -101,9 +100,9 @@ I have a basic understanding of networking fundamentals and am continuing to bui
 <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Projects%20I%27ve%20made%2Fworking%20on%20using%20Python%20%F0%9F%90%8D%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.045%2C%22deleteSpeed%22%3A0.08%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
-I like learning by building things, so I've started creating small cybersecurity-related projects while learning Python.
+I've made a few cybersecurity related projects with python to demonstrate what I've learnt over the time.
 
-### 🔎 Directory Fuzzer
+### Directory Fuzzer
 
 A Python-based tool for learning about HTTP requests, status codes, wordlists, and web content discovery.
 
@@ -114,11 +113,11 @@ A Python-based tool for learning about HTTP requests, status codes, wordlists, a
 - HTTP status codes
 - Wordlists
 - Web content discovery
-- Basic penetration-testing methodology
+- Basic pentesting methodology
 
-[View Project →](./Projects/Directory-Fuzzer/)
+[View Project →](a)
 
-### 📊 Log Analyzer
+### Log Analyzer
 
 A Python-based log analyzer focused on parsing authentication logs and detecting repeated failed login attempts.
 
@@ -131,11 +130,11 @@ A Python-based log analyzer focused on parsing authentication logs and detecting
 - Detection logic
 - Basic security monitoring
 
-[View Project →](./Projects/Log-Analyzer/)
+[View Project →](b)
 
-### 🚧 More Projects
+### ~Working on ideas
 
-I'm still experimenting with ideas and will continue adding projects as I learn more.
+I'm still working on making more projects
 
 ---
 
@@ -143,7 +142,7 @@ I'm still experimenting with ideas and will continue adding projects as I learn 
 <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22What%20I%20plan%20to%20do%3F%20%F0%9F%8E%AF%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.08%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
-> 🎯 **Long-term goal:** Build a strong foundation in cybersecurity and work towards becoming a Cloud Security Engineer.
+`🎯 **Long-term goal:** Build a strong foundation in cybersecurity and work towards becoming a Cloud Security Engineer.`
 
 I plan to continue exploring, understanding, and applying the knowledge I gain from different areas of cybersecurity that are relevant to my future goals.
 
@@ -157,8 +156,6 @@ My current areas of focus include:
 - CTFs
 - Security research
 - Cloud security
-
-As I progress, I want to move from learning individual concepts to combining them in larger projects and more realistic security environments.
 
 This portfolio is a work in progress and will grow alongside my cybersecurity journey.
 
@@ -176,8 +173,8 @@ I also want to thank my parents for supporting and motivating me to keep learnin
 
 <div align="center">
 
-**Thanks for visiting my portfolio! 🖥️**
+**Thanks for reading my cybersecurity portfolio**
 
-⭐ Feel free to explore my projects and writeups.
+Feel free to go through my work!!!
 
 </div>

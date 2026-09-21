@@ -1,8 +1,9 @@
 # Say hello to my Cybersecurity Portfolio
 
+![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=[{"text":">Whoami","typingspeed":0.5,"deletespeed":0.5},{"text":"Ved","typingspeed":0.1,"deletespeed":0.1}]&font=JetBrains%20Mono&color=%2300FF88&backgroundColor=%230D1117&width=900&height=200&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1)
+
 
 Hi! I'm Ved, a grade 12 student, an aspiring Penetration Tester & Cloud Security Engineer.
-![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22%3E%20whoami%22%2C%22font%22%3A%22JetBrains%20Mono%22%2C%22color%22%3A%22%2300FF88%22%2C%22fontSize%22%3A26%2C%22fontWeight%22%3A700%7D%2C%7B%22text%22%3A%22Aspiring%20Cybersecurity%20Student%22%2C%22font%22%3A%22JetBrains%20Mono%22%2C%22color%22%3A%22%2300E5FF%22%2C%22fontSize%22%3A24%7D%2C%7B%22text%22%3A%22Linux%20%7C%20Python%20%7C%20Web%20Security%22%2C%22font%22%3A%22JetBrains%20Mono%22%2C%22color%22%3A%22%2300FF88%22%2C%22fontSize%22%3A21%7D%2C%7B%22text%22%3A%22CTFs%20%7C%20Projects%20%7C%20Security%20Research%22%2C%22font%22%3A%22JetBrains%20Mono%22%2C%22color%22%3A%22%2300E5FF%22%2C%22fontSize%22%3A20%7D%5D&backgroundColor=%230D1117&width=900&height=180&typingSpeed=0.04&deleteSpeed=0.02&pause=1400&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1)
 
 
 This repo documents my journey into cybersecurity from the basics which I'm currently learning to the hands on labs, projects and research I've completed along the way.

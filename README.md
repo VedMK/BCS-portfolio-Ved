@@ -83,7 +83,7 @@ Some of the areas I've been learning include:
 </p>
 
 I have a basic understanding of networking fundamentals and am continuing to build my knowledge from the ground up.
-<center>
+
 | Area | Concepts |
 |---|---|
 | 🌐 TCP/IP | Network communication and protocols |
@@ -92,7 +92,7 @@ I have a basic understanding of networking fundamentals and am continuing to bui
 | 🔌 Ports & Protocols | Services and network communication |
 | 📍 IP Addressing | IPv4 and network addressing |
 | 🖧 Network Communication | How devices communicate |
-</center>
+
 
 ---
 

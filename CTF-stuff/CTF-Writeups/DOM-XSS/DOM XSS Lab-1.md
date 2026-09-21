@@ -110,4 +110,5 @@ The payload successfully triggered the `alert()` function, confirming the vulner
 
 ## Key learnings from the lab
  
-The main learning of the lab was the flow of data from the URL into `document.write()`:
+The main learning of the lab was the flow of data from the URL into:
+`document.write()`

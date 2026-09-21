@@ -2,6 +2,12 @@
 <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Log%20Analyzer%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.055%2C%22deleteSpeed%22%3A0.08%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)
+  
+</div>
+
 A Python log analyzer that I built to learn about log parsing, authentication events, failed login detection, and basic security monitoring.
 
 # Purpose

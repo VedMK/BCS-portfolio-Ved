@@ -14,6 +14,13 @@ The objective of the lab is to perform a Cross-Site Scripting attack that calls 
 
 ---
 
+## Required tools
+
+- A browser configured with Burp as it's proxy
+- Burp Suite 
+
+---
+
 ## Reconnaissance
 
 After reading the lab description, I first decided to find the input field, which was right at the front of the page. My first thought was to input a search value in the search bar of the application and observe any changes.

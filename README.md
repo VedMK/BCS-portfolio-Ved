@@ -1,6 +1,6 @@
 # Say hello to my Cybersecurity Portfolio
 
-![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=[{"text":">Whoami","typingspeed":0.5,"deletespeed":0.5},{"text":"Ved","typingspeed":0.1,"deletespeed":0.1}]&font=JetBrains%20Mono&color=%2300FF88&backgroundColor=%230D1117&width=900&height=200&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1)
+![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22%3EWhoami%22%2C%22typingSpeed%22%3A0.5%2C%22deleteSpeed%22%3A0.5%7D%2C%7B%22text%22%3A%22Ved%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%5D&font=JetBrains%20Mono&color=%2300FF88&backgroundColor=%230D1117&width=900&height=200&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1)
 
 
 Hi! I'm Ved, a grade 12 student, an aspiring Penetration Tester & Cloud Security Engineer.

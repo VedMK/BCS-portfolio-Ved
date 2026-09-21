@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Ved%27s%20Cybersecurity%20portfolio%20%F0%9F%96%A5%EF%B8%8F%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.03333333333333333%2C%22deleteSpeed%22%3A0.05%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
+<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Ved%27s%20Cybersecurity%20portfolio%20%F0%9F%96%A5%EF%B8%8F%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.01%2C%22deleteSpeed%22%3A0.04%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ I also have a [YouTube channel](https://www.youtube.com/@VK-Cyber) where I post 
 ---
 
 <p align="center">
-<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22My%20Progress%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.03333333333333333%2C%22deleteSpeed%22%3A0.05%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
+<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22My%20Progress%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.025%2C%22deleteSpeed%22%3A0.05%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
 ## 🌐 Web Application Security
@@ -81,7 +81,7 @@ Some of the areas I've been learning include:
 ---
 
 <p align="center">
-<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22%F0%9F%96%A7%20Networking%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.03333333333333333%2C%22deleteSpeed%22%3A0.05%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
+<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22%F0%9F%96%A7%20Networking%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.025%2C%22deleteSpeed%22%3A0.05%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
 I have a basic understanding of networking fundamentals and am continuing to build my knowledge from the ground up.
@@ -98,7 +98,7 @@ I have a basic understanding of networking fundamentals and am continuing to bui
 ---
 
 <p align="center">
-<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Projects%20I%27ve%20made%2Fworking%20on%20using%20Python%20%F0%9F%90%8D%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.03333333333333333%2C%22deleteSpeed%22%3A0.05%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
+<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Projects%20I%27ve%20made%2Fworking%20on%20using%20Python%20%F0%9F%90%8D%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.015%2C%22deleteSpeed%22%3A0.05%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
 I like learning by building things, so I've started creating small cybersecurity-related projects while learning Python.
@@ -140,7 +140,7 @@ I'm still experimenting with ideas and will continue adding projects as I learn 
 ---
 
 <p align="center">
-<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22What%20I%20plan%20to%20do%3F%20%F0%9F%8E%AF%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.03333333333333333%2C%22deleteSpeed%22%3A0.05%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
+<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22What%20I%20plan%20to%20do%3F%20%F0%9F%8E%AF%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.02%2C%22deleteSpeed%22%3A0.05%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
 > 🎯 **Long-term goal:** Build a strong foundation in cybersecurity and work towards becoming a Cloud Security Engineer.
@@ -165,7 +165,7 @@ This portfolio is a work in progress and will grow alongside my cybersecurity jo
 ---
 
 <p align="center">
-<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Some%20people%20I%20want%20to%20mention%20%F0%9F%91%A5%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.03333333333333333%2C%22deleteSpeed%22%3A0.05%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
+<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Some%20people%20I%20want%20to%20mention%20%F0%9F%91%A5%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.02%2C%22deleteSpeed%22%3A0.05%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
 A big thank you to **Karthik bhaiya** and my brother **Rishi** for helping me learn more efficiently and effectively throughout this journey.

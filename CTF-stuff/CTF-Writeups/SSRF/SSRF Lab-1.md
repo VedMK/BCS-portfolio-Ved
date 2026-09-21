@@ -26,7 +26,7 @@ Next, I used Burp suite to examine the HTTP requests when I click "check stock".
 
 Upon examining the HTTP requests for the "check stock" button, it was evident that the request method was POST. Interestingly I also found that the application communicates to the back-end with the API, with it being input via a variable called "stockApi" to fetch the stock units when the post request is sent.
 
-![HTTP](Lab1-2.png)
+![HTTP](Lab1-1.png)
 
 ### Source
 

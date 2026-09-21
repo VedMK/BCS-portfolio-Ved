@@ -1,6 +1,10 @@
 # Say hello to my Cybersecurity Portfolio
 
+
 Hi! I'm Ved, a grade 12 student, an aspiring Penetration Tester & Cloud Security Engineer.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Student;Learning+Linux+%7C+Python+%7C+Web+Security;Building+Cybersecurity+Projects)](https://git.io/typing-svg)
+
 
 This repo documents my journey into cybersecurity from the basics which I'm currently learning to the hands on labs, projects and research I've completed along the way.
 

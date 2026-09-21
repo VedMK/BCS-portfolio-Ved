@@ -105,6 +105,10 @@ The payload successfully triggered the `alert()` function, confirming the vulner
 
 ![Labsolved](Lab1-solved.png)
 
+**Severity:** Medium 🟠
+
+**Impact:** An attacker could execute JavaScript in a victim's browser with a malicious URL. This could possibly be exploited to gather sensitive information from the victim or modify the page itself.
+
 ---
 
 ## What I Learned

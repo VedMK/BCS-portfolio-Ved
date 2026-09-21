@@ -14,6 +14,13 @@ The developer has deployed two weak anti-SSRF defenses that you will need to byp
 
 ---
 
+## Required tools
+
+- A browser configured with Burp as it's proxy
+- Burp Suite
+
+---
+
 ## Reconnaissance
 
 The lab description mentioned the vulnerability is in the stock check functionality. So I began exploring the site to find the given feature, which was present for all products when you click "View details" under the product.
@@ -142,6 +149,8 @@ The payload successfully deleted carlos's account, confirming the vulnerability.
 - How Burp suite repeater can be used to inspect and modify HTTP requests.
 - How blacklist based SSRF defenses can sometimes be bypassed using alternative representations.
 - How double URL encoding can be used to bypass filters that block specific paths.
+
+---
 
 ## Key learnings from the lab
 

@@ -140,6 +140,9 @@ The payload successfully deleted carlos's account, confirming the vulnerability.
 
 ![Labsolved](Lab1-solved.png)
 
+**Severity:** High 🔴
+**Impact:** The vulnerability allows an attacker to delete other user's account. It also allows the attacker to view the admin panel, through which they can discover paths that can be further exploited.
+
 ---
 
 ## What I Learned

@@ -43,6 +43,7 @@ Some of the vulnerabilities I'm learning about include:
 
 <details>
 <summary><b>Web vulnerabilities I'm learning</b></summary>
+  
 - SQL Injection
 - Cross-Site Scripting (XSS)
 - Authentication vulnerabilities
@@ -52,6 +53,7 @@ Some of the vulnerabilities I'm learning about include:
 - Path Traversal
 - Command Injection
 - API Security
+- 
 </details>
 
 I've completed **~50 labs on PortSwigger Web Security Academy**, using them to gain practical experience and a better understanding of common web vulnerabilities.

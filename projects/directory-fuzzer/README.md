@@ -3,7 +3,9 @@
 </p>
 
 <div align="center">
+  
 ![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)
+  
 </div>
 
 A Python based web directory and file fuzzer that I built to learn about web content discovery, HTTP requests and pen testing.

@@ -19,7 +19,7 @@ The developer has deployed two weak anti-SSRF defenses that you will need to byp
 
 The lab description mentioned the vulnerability is in the stock check functionality. So I began exploring the site to find the given feature, which was present for all products when you click "View details" under the product.
 
-![Input field](Lab1-0.png)
+![Input field](Lab2-0.png)
 
 Next, I used Burp suite to examine the HTTP requests when I click "check stock".
 
@@ -27,7 +27,7 @@ Next, I used Burp suite to examine the HTTP requests when I click "check stock".
 
 Upon examining the HTTP requests for the "check stock" button, it was evident that the request method was POST. Interestingly I also found that the application communicates to the back-end with the API, with it being input via a variable called "stockApi" to fetch the stock units when the post request is sent.
 
-![HTTP](Lab1-1.png)
+![HTTP](Lab2-1.png)
 
 ### Source
 
@@ -75,7 +75,7 @@ https://localhost/admin
 
 which returned
 
-![return](Lab1-2.png)
+![return](Lab2-2.png)
 
 This confirms that the payload did reach the server, but the anti-SSRF defense detected malicious input and blocked it.
 
@@ -104,7 +104,7 @@ gave me the same response as before.
 
 It was now evident that the path was also being checked before performing the request. So, I encoded the "a" of the admin in URL encoding, i.e "%2561". This time, it returned the admin panel.
 
-![admin](Lab1-3.png)
+![admin](Lab2-3.png)
 
 Clicking the "delete" button didn't work, so I examined the response content where I found the required path to delete the user "carlos".
 
@@ -122,7 +122,7 @@ stockApi=http://127.1/%2561dmin/delete?username=carlos
 
 The payload was placed into the `stockApi` variable.
 
-![payload](Lab1-payload.png)
+![payload](Lab2-payload.png)
 
 The request was interpreted by the server as a valid request and the because the server was able to access the internal admin interface, it deleted carlos's account.
 
@@ -132,7 +132,7 @@ The request was interpreted by the server as a valid request and the because the
 
 The payload successfully deleted carlos's account, confirming the vulnerability.
 
-![Labsolved](Lab1-solved.png)
+![Labsolved](Lab2-solved.png)
 
 ---
 

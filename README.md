@@ -25,7 +25,7 @@ I'm currently exploring offensive security, mainly about how web applications ca
 
 My long term goal is to make a strong cyber foundation and then move into Cloud Security Engineering.
 
-I'm building this portfolio as part of my preparation for the IIT Kanpur Bachelor's of Cybersecurity program. I want to use the program to build a strong foundation in the field while continuing to develop my skills through self learning and practical implementation.
+I'm building this portfolio to show my contributions to the community and my knowledge within the cybersecurity field. I want to use the opportunity of possibly being admitted into the Bachelors of Cybersecurity program by IIT Kanpur to build a strong foundation in the field, while continuing to develop my skills through self learning and practical implementation.
 
 I also have a [YouTube channel](https://www.youtube.com/@VK-Cyber) where I post videos about cybersecurity related Python projects, guides, and walkthroughs for [OverTheWire](https://overthewire.org/wargames/) wargames.
 

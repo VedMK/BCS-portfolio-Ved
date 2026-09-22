@@ -53,6 +53,7 @@ Some of the vulnerabilities I'm learning about include:
 - Path Traversal
 - Command Injection
 - API Security
+- Web Cache Deception
 
 </details>
 

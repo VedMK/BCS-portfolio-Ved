@@ -118,7 +118,7 @@ A Python-based tool for learning about HTTP requests, status codes, wordlists, a
 - Web content discovery
 - Basic pentesting methodology
 
-[View Project](https://github.com/VedMK/BCS-portfolio-Ved/tree/main/projects/directory-fuzzer)
+[View Project](https://github.com/VedMK/BCS-portfolio-Ved/tree/main/Projects/Directory-Fuzzer)
 
 ### Log Analyzer
 
@@ -133,7 +133,7 @@ A Python-based log analyzer focused on parsing authentication logs and detecting
 - Detection logic
 - Basic security monitoring
 
-[View Project](https://github.com/VedMK/BCS-portfolio-Ved/tree/main/projects/Log-Analyzer)
+[View Project](https://github.com/VedMK/BCS-portfolio-Ved/tree/main/Projects/Log-Analyzer)
 
 ### ~Working on ideas
 

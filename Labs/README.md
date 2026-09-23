@@ -15,7 +15,7 @@ I currently have two major set-ups for learning web vulnerabilities and practici
 
 ---
 
-I also use PortSwigger Web Academy to practice web vulnerability labs.
+I also use [PortSwigger Web Security Academy](./PortSwigger/) to practice web vulnerability labs.
 
 ---
 

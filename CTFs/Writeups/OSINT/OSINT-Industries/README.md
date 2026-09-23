@@ -6,8 +6,9 @@
 
 My OSINT-Industry challenge write-ups can be found here.
 
-<center>
+<p align="center">
   
-![OSINT](OSINT-I)
+![OSINT](OSINT-I.png)
 
-</center>
+</p>
+

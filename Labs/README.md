@@ -22,9 +22,3 @@ I also use [PortSwigger Web Security Academy](./PortSwigger/) to practice web vu
 <center>
 Feel free to explore my lab-writeups and experiments.
 </center>
-
----
-
-My PortSwigger learning progress ca be found below.
-
-![progress](progress.png)

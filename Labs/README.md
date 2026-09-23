@@ -20,7 +20,5 @@ I also use [PortSwigger Web Security Academy](./PortSwigger/) to practice web vu
 ---
 
 <p align="center">
-  
 Feel free to explore my writeups!
-
 </p>

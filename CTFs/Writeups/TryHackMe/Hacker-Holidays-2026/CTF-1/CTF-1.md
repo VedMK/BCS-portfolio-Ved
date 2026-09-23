@@ -1,9 +1,9 @@
 # [The Concierge Knows Too Much](https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9)
 
 **Platform:** TryHackMe  
-**CTF:** Hacker Holidays 2026-> Day 1
+**CTF:** Hacker Holidays 2026 Day 1   
 **Category:** AI/Prompt Injection/LLM Security  
-**Difficulty:** Very Easy  
+**Difficulty:** Very Easy
 
 ## Challenge information
 

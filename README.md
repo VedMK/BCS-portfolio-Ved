@@ -85,7 +85,7 @@ Some of the areas I've been learning include:
 <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22%F0%9F%96%A7%20Networking%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.055%2C%22deleteSpeed%22%3A0.08%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
-I have a basic understanding of networking fundamentals and am continuing to build my knowledge from the ground up.
+I have a basic understanding of networking fundamentals and am continuing to build my knowledge.
 
 | Area | Concepts |
 |---|---|

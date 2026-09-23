@@ -7,8 +7,6 @@
 My OSINT-Industry challenge write-ups can be found here.
 
 <p align="center">
-  
-![OSINT](OSINT-I.png)
-
+  <img src="OSINT-I.png" width="900" height="200">
 </p>
 

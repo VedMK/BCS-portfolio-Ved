@@ -13,7 +13,7 @@
 
 Hi! I'm Ved, a Grade 12 student and an aspiring Penetration Tester & Cloud Security Engineer.
 
-This repository documents my journey into cybersecurity — from the fundamentals I'm currently learning to the hands-on labs, projects, and research I've completed along the way.
+This repository documents my journey into cybersecurity from the fundamentals I'm currently learning to the hands on labs, projects, and research I've completed along the way.
 
 ---
 

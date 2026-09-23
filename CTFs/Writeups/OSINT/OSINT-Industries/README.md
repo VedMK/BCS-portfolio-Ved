@@ -6,4 +6,8 @@
 
 My OSINT-Industry challenge write-ups can be found here.
 
-![OSINT](https://ctf.osint.industries/files/b4059c08f84d8f3b96ad26c5ad4fc283/OSINT-Logo-white2x_17.png)
+<center>
+  
+![OSINT](OSINT-I)
+
+</center>

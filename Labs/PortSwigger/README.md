@@ -9,4 +9,4 @@ This folder contains my PortSwigger Web Security Academy lab writeups and progre
 
 ## Progress
 
-- [Progress screenshot — 2026-09-19](./Progress.png)
+- [Progress](Progress.png)

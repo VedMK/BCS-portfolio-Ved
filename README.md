@@ -87,7 +87,7 @@ Some of the areas I've been learning include:
 
 I have a basic understanding of networking fundamentals and am continuing to build my knowledge.
 
-| Area | Concepts |
+| Topic | Concept |
 |---|---|
 | 🌐 TCP/IP | Network communication and protocols |
 | 🔗 HTTP/HTTPS | Web communication |

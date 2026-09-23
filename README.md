@@ -168,7 +168,7 @@ This portfolio is a work in progress and will grow alongside my cybersecurity jo
 <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Some%20people%20I%20want%20to%20mention%20%F0%9F%91%A5%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.08%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
-A big thank you to **Karthik bhaiya** and my brother **Rishi** for helping me learn more efficiently and effectively throughout this journey as well as build this portfolio.
+A big thank you to **Karthik bhaiya** and my brother **Rishi** for guiding me to learn more efficiently and effectively throughout this journey as well as build this portfolio.
 
 I also want to thank my parents for supporting and motivating me to keep learning and working on this.
 

@@ -145,7 +145,7 @@ I'm still working on making more projects
 <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22What%20I%20plan%20to%20do%3F%20%F0%9F%8E%AF%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.08%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
-`🎯 Long-term goal: Build a strong foundation in cybersecurity and work towards becoming a Cloud Security Engineer.`
+`Long-term goal: Build a strong foundation in cybersecurity and work towards becoming a Cloud Security Engineer.`
 
 I plan to continue exploring, understanding, and applying the knowledge I gain from different areas of cybersecurity that are relevant to my future goals.
 

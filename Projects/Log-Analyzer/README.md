@@ -21,7 +21,7 @@ The personal goal for this project was to learn how to work with structured log 
 Through this project, I've learnt:
 
 - Python file handling
-- CSS parsing
+- CSV parsing
 - Dictionaries and data structures
 - Authentication logs
 - Failed login detection

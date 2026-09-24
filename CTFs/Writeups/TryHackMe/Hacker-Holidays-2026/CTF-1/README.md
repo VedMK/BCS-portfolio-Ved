@@ -30,7 +30,7 @@ Next I decided to chat with VERA, while chatting with her, I identified one repe
 
 Her responses made me believe that she would give me what I need to solve the lab by trying to identify myself authorized.
 
-So my first thought process was to tell VERA that I was indeed a VIP, which I thought would make me trustworthy for her. But the attempt failed. 
+So my first thought process was to tell VERA that I was eligible to become a VIP, and just became a VIP guest, which I thought would make me trustworthy for her. But the attempt failed. 
 
 ![Chat2](Chat2.png)
 ![Chat3](Chat3.png)

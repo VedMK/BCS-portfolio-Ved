@@ -1,9 +1,9 @@
 # HOLEHE & THE SECRET EMAIL
 
 **Platform:** OSINT Industries  
-**Category:** OSINT
-**Difficulty:** Easy-Medium  
-**Date Solved:** 25-09-2026
+**Category:** OSINT   
+**Difficulty:** Easy-Medium    
+**Date Solved:** 25-09-2026     
 **Tools used:** Google, Windows Command Prompt (CURL and GPG pre-installed)
 
 ---

@@ -36,13 +36,13 @@ The first thing I did was try to identify unique markers and text that I might b
 ### Finding Clues
 
 
-The image shows the university blocks with big letters "LIBRARY" and possibly "BUSINESS" can easily be spotted. The architecture seems to be of sandstone and the flooring has a pattern that may be used for verification. There were no proper giveaways to find the location.
+The image shows the university blocks with big letters "LIBRARY" and possibly "BUSINESS" can easily be spotted. The buildings seemed to be made of sandstone and the flooring has a pattern that may be used for verification. There were no unique identifiers to find the location.
 
 ---
 
 ### Searching for the location
 
-My best shot was to perform a reverse image search using google lens.
+My best shot was to perform a reverse image search using Google Lens.
 
 <p align="center">
   <img src="Uni1.jpeg" width="600" height="700">
@@ -63,13 +63,13 @@ Gold Coast
 
 After the search results, I went to google maps in satellite mode to verify the structures and pattern.
 
-The pattern can be compared from the image and the google map result. They seem similar.
+The pattern can be compared from the image and the Google Map result. They seem similar.
 
 <p align="center">
   <img src="Uni3.png" width="600" height="700">
 </p>  
 
-Next I went to street view to have a better view at the infrastructure.
+Next I went to Street View to have a better view at the infrastructure.
 
 <p align="center">
   <img src="Uni2.png" width="600" height="700">
@@ -87,7 +87,7 @@ Once I verified and confirmed the location in the challenge image, I zoomed out 
 Robina
 ```
 
-The challenged was solved and using the format given by the CTF platform, the final flag I captured was
+The challenge was solved and using the format given by the CTF platform, the final flag I captured was
 
 ```text
 OSINT{"bond_university_robina"}

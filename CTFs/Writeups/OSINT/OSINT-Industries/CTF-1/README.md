@@ -60,7 +60,7 @@ After identifying the clues, I searched for the text I saw on the building along
   <img src="MM-loc3.jpeg" width="600" height="700">
 </p>
 
-Then I zoomed into each search location to find a intersection point of an Avenue and a Rue, as specified by the challenge. 
+Then I zoomed into each search location to find an intersection point of an Avenue and a Rue, as specified by the challenge. 
 
 One location 
 ```text
@@ -78,7 +78,7 @@ Next I switched to satellite view to find any visible comparison of the top view
 
 ### Verification
 
-After I suspected the location, I investigated it using Google Street View. The building on street view was evidently the same, and I spotted the same piece of text I saw as a initial clue. As well as noticed the same structural identifiers I had noted from the image provided by the challenge.
+After I suspected the location, I investigated it using Google Street View. The building on street view was evidently the same, and I spotted the same piece of text I saw as an initial clue. I also noticed the same structural identifiers I had noted from the image provided by the challenge.
 
 <p align="center">
   <img src="MM-1.png" width="700" height="700">
@@ -88,13 +88,13 @@ After I suspected the location, I investigated it using Google Street View. The 
 
 ### Capturing the flag
 
-Once I verified and confirmed the location in the challenge image, I zoomed out near the location on google maps and spotted a metro station right across the street.
+Once I verified and confirmed the location in the challenge image, I zoomed out near the location on Google Maps and spotted a metro station right across the street.
 
 <p align="center">
   <img src="MM-2.png" width="700" height="700">
 </p>
 
-The challenged was solved and using the format given by the CTF platform, the final flag I captured was
+The challenge was solved and using the format given by the CTF platform, the final flag I captured was
 
 ```text
 OSINT{SAINT_PHILIPPE_DU_ROULE}

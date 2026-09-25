@@ -101,7 +101,7 @@ This verified the initial data I got from google search.
   <img src="Hol4.png" width="600" height="700">
 </p>
 
-Hence, the verified date of creation of Megadose@protonmail.com was
+The key creation date usually matches the account creation date, and hence the account creation date should be
 ```text
 14-01-2021
 ```
@@ -110,7 +110,7 @@ Hence, the verified date of creation of Megadose@protonmail.com was
 
 ### Capturing the flag
 
-After verifying the date with the email account's public PGP key, I obtained the flag, which was the date of creation.
+After verifying the key creation date using the PGP key and the search results, I obtained the flag, which was the date of creation.
 
 The challenged was solved and using the format given by the CTF platform, the final flag I captured was
 

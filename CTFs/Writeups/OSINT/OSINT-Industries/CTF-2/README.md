@@ -90,5 +90,5 @@ Robina
 The challenged was solved and using the format given by the CTF platform, the final flag I captured was
 
 ```text
-OSINT{bond_university_robina}
+OSINT{"bond_university_robina"}
 ```

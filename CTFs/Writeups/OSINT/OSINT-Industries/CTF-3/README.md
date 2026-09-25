@@ -44,9 +44,9 @@ The topmost search results were a Holehe website for OSINT, and a github reposit
   <img src="Hol1.png" width="600" height="700">
 </p>
 
-I first visited the website, and tried to find the creator's username but in vain. 
+I first visited the website, and tried to find the creator's username but in vain. The website also had OSINT features for usernames, phone numbers and IP addresses. This didn't seem the match the description given in the challenge, which made me highly doubt that the creator I was looking for made this site.
 
-I then moved onto the github repository. I went to the profile straightaway, which showed me the username and name of the creator
+I then moved onto the github repository. The README gave information about an OSINT tool used to pivot from email addresses. This matched the description given in the challenge. I went to the profile straightaway, which showed me the username and name of the creator
 ```text
 Palenath
 ```

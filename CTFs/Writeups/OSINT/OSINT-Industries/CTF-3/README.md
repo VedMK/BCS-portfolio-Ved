@@ -4,7 +4,7 @@
 **Category:** OSINT
 **Difficulty:** Easy-Medium  
 **Date Solved:** 25-09-2026
-**Tools used:** Google, CURL(CLi), GPG(CLi)
+**Tools used:** Google, Windows Command Prompt (CURL and GPG pre-installed)
 
 ---
 
@@ -40,64 +40,80 @@ The first thing I did was search up "Holehe" on google. This gave me the top sit
 
 The topmost search results were a Holehe website for OSINT, and a github repository for Holehe. 
 
-
-
-
-
----
-
-### Searching for the location
-
-My best shot was to perform a reverse image search using google lens.
-
 <p align="center">
-  <img src="Uni1.jpeg" width="600" height="700">
+  <img src="Hol1.png" width="600" height="700">
 </p>
 
-The results gave me 
+I first visited the website, and tried to find the creator's username but in vain. 
+
+I then moved onto the github repository. I went to the profile straightaway, which showed me the username and name of the creator
 ```text
-Bond University
+Palenath
 ```
-and
+
+<p align="center">
+  <img src="Hol2.png" width="600" height="700">
+</p>
+
+This was then verified by quick google searches.
+
+---
+
+### Finding the email
+
+I then went to the Holehe repository and scrolled down to see if the creator mentioned any contact details. Luckily, the creator did mention their email address right towards the top of their README file. I noted it and scrolled down to see if there were other details, but there were none.
+
+This meant the email of the creator was probably the one and only one in the README file.
+
+<p align="center">
+  <img src="Hol3.png" width="600" height="700">
+</p>
+
+The email in the repository was
 ```text
-Gold Coast
+megadose@protonmail.com
 ```
 
 ---
 
-### Verification
+### Finding the creation date
 
-After the search results, I went to google maps in satellite mode to verify the structures and pattern.
+Once I found the email, I made a simple google search, "When was megadose@protonmail.com created?", which gave me
+```text
+Megadose@protonmail.com was created on January 14, 2021.
+```
 
-The pattern can be compared from the image and the google map result. They seem similar.
+To verify this, I used proton's PGP public API to get the public key of the email using
+```text
+curl -s "https://mail-api.proton.me/pks/lookup?op=get&search=megadose@protonmail.com" -o holehe.asc
+```
+in my Windows Command Prompt.
+
+Then I extracted and inspected the key information using
+```text
+gpg --show-keys holehe.asc
+```
+in my Windows Command Prompt.
+
+This verified the initial data I got from google search.
 
 <p align="center">
-  <img src="Uni3.png" width="600" height="700">
-</p>  
+  <img src="Hol4.png" width="600" height="700">
+</p>
 
-Next I went to street view to have a better view at the infrastructure.
-
-<p align="center">
-  <img src="Uni2.png" width="600" height="700">
-</p>  
-
-The same straight path, tents to the left, pattern on the floor and the library on the left can be easily compared. This verified the location.
+Hence, the verified date of creation of Megadose@protonmail.com was
+```text
+14-01-2021
+```
 
 ---
 
 ### Capturing the flag
 
-Once I verified and confirmed the location in the challenge image, I zoomed out in Google Maps and found the city in which the university was located:
-
-```text
-Robina
-```
+After verifying the date with the email account's public PGP key, I obtained the flag, which was the date of creation.
 
 The challenged was solved and using the format given by the CTF platform, the final flag I captured was
 
 ```text
-OSINT{"bond_university_robina"}
+OSINT{14-01-2021"}
 ```
-
-
-Is this format ok for the OSINT challenge in OSINT Industries? Or it needs to be diff from GEOSINT? IFyes then make a new format

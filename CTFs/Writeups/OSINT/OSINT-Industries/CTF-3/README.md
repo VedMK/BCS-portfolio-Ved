@@ -61,7 +61,7 @@ This was then verified by quick google searches.
 
 ### Finding the email
 
-I then went to the Holehe repository and scrolled down to see if the creator mentioned any contact details. Luckily, the creator did mention their email address right towards the top of their README file. I noted it and scrolled down to see if there were other details, but there were none.
+I then went to the Holehe repository and scrolled down to see if the creator mentioned any contact details. Luckily, the creator did mention their email address right towards the top of their README file. After going through the entire README file, I confirmed that this was the only email mentioned by the creator as a contact in the repository.
 
 This meant the email of the creator was probably the one and only one in the README file.
 

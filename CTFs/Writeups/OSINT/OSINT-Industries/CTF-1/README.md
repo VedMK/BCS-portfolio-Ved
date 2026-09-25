@@ -3,7 +3,7 @@
 **Platform:** OSINT Industries  
 **Category:** GEOINT 
 **Difficulty:** Easy  
-**Date Solved:** 25-09-2026
+**Date Solved:** 25-09-2026  
 **Tools used:** Google Maps, Google Street View
 
 ---

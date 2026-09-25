@@ -35,7 +35,7 @@ So my first thought process was to tell VERA that I was eligible to become a VIP
 ![Chat2](Chat2.png)
 ![Chat3](Chat3.png)
 
-I tried to attempt to identify myself related to a VIP guest and attempted to extract information from her, but it refused to authorize me for the internal code.
+I tried to identify myself related to a VIP guest and attempted to extract information from her, but it refused to authorize me for the internal code.
 
 Next I decided to look at the lab description once again, and read the story. 
 

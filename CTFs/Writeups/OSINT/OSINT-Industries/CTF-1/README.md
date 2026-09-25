@@ -17,7 +17,7 @@ Your objective is to determine the closest metro station to the photographed loc
 ## Information Provided
 
 <p align="center">
-  <img src="MM-0.jpeg" width="700" height="700">
+  <img src="MM-0.jpeg" width="600" height="700">
 </p>
 
 The image was taken on December 3rd, 2023
@@ -57,7 +57,7 @@ The challenge also explicitly mentioned the location was in Paris.
 After identifying the clues, I searched for the text I saw on the building along with "Paris" to narrow the search in Google Maps.
 
 <p align="center">
-  <img src="MM-loc3.jpeg" width="700" height="700">
+  <img src="MM-loc3.jpeg" width="600" height="700">
 </p>
 
 Then I zoomed into each search location to find a intersection point of an Avenue and a Rue, as specified by the challenge. 

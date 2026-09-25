@@ -7,3 +7,8 @@
 - [My OSINT-Industries Account](https://ctf.osint.industries/users/9906)
 
 This folder tracks my CTF platform profiles and competitive cybersecurity achievements.
+
+---
+
+Achieved <1000 rank in [CTF OSINT INDUSTRIES](https://ctf.osint.industries).
+

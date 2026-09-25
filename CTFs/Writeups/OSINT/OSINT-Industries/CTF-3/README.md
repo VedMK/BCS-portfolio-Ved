@@ -30,7 +30,7 @@ Behind every tool, there is a creator — and behind that creator, there is an e
 
 ## Initial Analysis
 
-The first thing I did was search up "Holehe" on google. This gave me the top sites for the search results.
+The first thing I did was search up "Holehe" on google.
 
 ---
 

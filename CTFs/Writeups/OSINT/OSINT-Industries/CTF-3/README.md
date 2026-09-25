@@ -38,15 +38,15 @@ The first thing I did was search up "Holehe" on google.
 
 ### Finding the creator
 
-The topmost search results were a Holehe website for OSINT, and a github repository for Holehe. 
+The topmost search results were a Holehe website for OSINT, and a Github repository for Holehe. 
 
 <p align="center">
   <img src="Hol1.png" width="600" height="700">
 </p>
 
-I first visited the website, and tried to find the creator's username but in vain. The website also had OSINT features for usernames, phone numbers and IP addresses. This didn't seem the match the description given in the challenge, which made me highly doubt that the creator I was looking for made this site.
+I first visited the website, and tried to find the creator's username but in vain. The website also had OSINT features for usernames, phone numbers and IP addresses. This didn't seem to match the description given in the challenge, which made me highly doubt that the creator I was looking for made this site.
 
-I then moved onto the github repository. The README gave information about an OSINT tool used to pivot from email addresses. This matched the description given in the challenge. I went to the profile straightaway, which showed me the username and name of the creator
+I then moved onto the Github repository. The README gave information about an OSINT tool used to pivot from email addresses. This matched the description given in the challenge. I went to the profile straightaway, which showed me the username and name of the creator
 ```text
 Palenath
 ```
@@ -55,7 +55,7 @@ Palenath
   <img src="Hol2.png" width="600" height="700">
 </p>
 
-This was then verified by quick google searches.
+This was then verified by a few google searches.
 
 ---
 
@@ -83,7 +83,7 @@ Once I found the email, I made a simple google search, "When was megadose@proton
 Megadose@protonmail.com was created on January 14, 2021.
 ```
 
-To verify this, I used proton's PGP public API to get the public key of the email using
+To verify this, I used proton's PGP key's public API to get the public key of the email using
 ```text
 curl -s "https://mail-api.proton.me/pks/lookup?op=get&search=megadose@protonmail.com" -o holehe.asc
 ```
@@ -95,7 +95,7 @@ gpg --show-keys holehe.asc
 ```
 in my Windows Command Prompt.
 
-This verified the initial data I got from google search.
+This verified the initial search result I got from Google.
 
 <p align="center">
   <img src="Hol4.png" width="600" height="700">
@@ -112,7 +112,7 @@ The key creation date usually matches the account creation date, and hence the a
 
 After verifying the key creation date using the PGP key and the search results, I obtained the flag, which was the date of creation.
 
-The challenged was solved and using the format given by the CTF platform, the final flag I captured was
+The challenge was solved and using the format given by the CTF platform, the final flag I captured was
 
 ```text
 OSINT{14-01-2021}

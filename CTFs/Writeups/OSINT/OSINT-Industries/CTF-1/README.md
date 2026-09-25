@@ -16,7 +16,9 @@ Your objective is to determine the closest metro station to the photographed loc
 
 ## Information Provided
 
-![MM-0](MM-0.jpeg)
+<p align="center">
+  <img src="MM-0.jpeg" width="700" height="700">
+</p>
 
 The image was taken on December 3rd, 2023
 The approximate time was 18:00 (early evening)
@@ -54,7 +56,9 @@ The challenge also explicitly mentioned the location was in Paris.
 
 After identifying the clues, I searched for the text I saw on the building along with "Paris" to narrow the search in Google Maps.
 
-![MM-loc](MM-loc3.jpeg)
+<p align="center">
+  <img src="MM-loc3.jpeg" width="700" height="700">
+</p>
 
 Then I zoomed into each search location to find a intersection point of an Avenue and a Rue, as specified by the challenge. 
 
@@ -64,7 +68,9 @@ Maison julien
 ```
 stood out, with an intersection of an Avenue and a Rue.
 
-![MM-loc](MM-loc2.jpeg)
+<p align="center">
+  <img src="MM-loc2.jpeg" width="700" height="700">
+</p>
 
 Next I switched to satellite view to find any visible comparison of the top view and the given image. The tree and zebra-crossing in Google Maps seemed to match the tree and zebra-crossing I could see in the image. I was convinced that I must've found the location due to clues matching the information.
 
@@ -74,7 +80,9 @@ Next I switched to satellite view to find any visible comparison of the top view
 
 After I suspected the location, I investigated it using Google Street View. The building on street view was evidently the same, and I spotted the same piece of text I saw as a initial clue. As well as noticed the same structural identifiers I had noted from the image provided by the challenge.
 
-![MM-1](MM-1.png)
+<p align="center">
+  <img src="MM-1.png" width="700" height="700">
+</p>
 
 ---
 
@@ -82,7 +90,9 @@ After I suspected the location, I investigated it using Google Street View. The 
 
 Once I verified and confirmed the location in the challenge image, I zoomed out near the location on google maps and spotted a metro station right across the street.
 
-![MM-2](MM-2.png)
+<p align="center">
+  <img src="MM-2.png" width="700" height="700">
+</p>
 
 The challenged was solved and using the format given by the CTF platform, the final flag I captured was
 

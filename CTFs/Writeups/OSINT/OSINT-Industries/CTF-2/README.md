@@ -66,13 +66,13 @@ After the search results, I went to google maps in satellite mode to verify the 
 The pattern can be compared from the image and the google map result. They seem similar.
 
 <p align="center">
-  <img src="Uni3.jpeg" width="600" height="700">
+  <img src="Uni3.png" width="600" height="700">
 </p>  
 
 Next I went to street view to have a better view at the infrastructure.
 
 <p align="center">
-  <img src="Uni2.jpeg" width="600" height="700">
+  <img src="Uni2.png" width="600" height="700">
 </p>  
 
 The same straight path, tents to the left, pattern on the floor and the library on the left can be easily compared. This verified the location.

@@ -69,7 +69,7 @@ Maison julien
 stood out, with an intersection of an Avenue and a Rue.
 
 <p align="center">
-  <img src="MM-loc2.jpeg" width="700" height="700">
+  <img src="MM-loc2.jpeg" width="500" height="700">
 </p>
 
 Next I switched to satellite view to find any visible comparison of the top view and the given image. The tree and zebra-crossing in Google Maps seemed to match the tree and zebra-crossing I could see in the image. I was convinced that I must've found the location due to clues matching the information.

@@ -115,5 +115,5 @@ After verifying the key creation date using the PGP key and the search results, 
 The challenged was solved and using the format given by the CTF platform, the final flag I captured was
 
 ```text
-OSINT{14-01-2021"}
+OSINT{14-01-2021}
 ```

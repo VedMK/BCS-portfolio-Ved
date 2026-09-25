@@ -38,7 +38,9 @@ I looked for unique identifiers such as visible text, shop or restaurant names, 
 
 Upon searching for clues, I came across a piece of text on a building that was just barely visible.
 
-![MM-find](MM-find.png)
+<p align="center">
+  <img src="MM-find.png" width="700" height="700">
+</p>
 
 ```text
 JULIEN

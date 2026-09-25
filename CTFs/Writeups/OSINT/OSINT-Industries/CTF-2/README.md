@@ -27,7 +27,7 @@ Your objective is to determine:
 
 ## Initial Analysis
 
-The given image had to be analyzed first. Then I would decide on a move.
+The first thing I did was try to identify unique markers and text that I might be able to compare during the investigation.
 
 ---
 

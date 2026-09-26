@@ -5,6 +5,7 @@
 - [My TryHackMe Account](https://tryhackme.com/p/VKCyber)
 - [My Hack The Box Account](https://profile.hackthebox.com/profile/019eff7a-3185-7083-ad8f-1639a0dafa19?utm_medium=copy_url)
 - [My OSINT-Industries Account](https://ctf.osint.industries/users/9906)
+- [My CyLab Security Academy(PicoCTF) Account](https://learn.cylabacademy.org/users/VKCyber) 
 
 This folder tracks my CTF platform profiles and competitive cybersecurity achievements.
 

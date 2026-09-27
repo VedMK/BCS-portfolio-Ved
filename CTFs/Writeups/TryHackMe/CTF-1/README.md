@@ -93,7 +93,7 @@ I opened the site and knew what timeline I was looking for, so I scrolled down t
   <img src="MOTOGP-3.png" width="600" height="700">
 </p>
 
-Now that I identified the location and date: I searched for "INDONESIAN GP 2025 OCTOBER 5 RACE" and get the required flag.
+Now that I identified the location and date: I searched for "INDONESIAN GP 2025 OCTOBER 5 RACE" to capture the flag.
 
 <p align="center">
   <img src="MOTOGP-4.png" width="600" height="700">

@@ -130,7 +130,7 @@ The schedule clearly contained the date of the first event and the last event. H
 For flags 3 and 4, I needed to move onto the next image. I will embed the image again for the sake of not having to constantly scroll.
 
 <p align="center">
-  <img src="MP-2.png" width="600" height="700">
+  <img src="MP-2.jpg" width="600" height="700">
 </p>
 
 After looking around for a while I noticed words on the table.

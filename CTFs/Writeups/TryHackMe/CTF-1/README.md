@@ -46,12 +46,12 @@ Contents of zip file were 2 images
 ```
 
 <p align="center">
-  <img src="MP-1.jpeg" width="600" height="700">
+  <img src="MP-1.jpg" width="600" height="700">
 </p>
 
 
 <p align="center">
-  <img src="MP-2.jpeg" width="600" height="700">
+  <img src="MP-2.jpg" width="600" height="700">
 </p>
 
 
@@ -73,7 +73,7 @@ The file name "MotoGP" was a takeaway on what I would be looking for, MotoGP sta
 My next thought was to use Exiftool to see if the image metadata contained the image creation date, which would give me the timeline I would be looking for, and it did.
 
 <p align="center">
-  <img src="MOTOGP-1.jpeg" width="600" height="700">
+  <img src="MOTOGP-1.png" width="600" height="700">
 </p>
 
 ```text
@@ -84,13 +84,13 @@ The timeline I should be looking for was revealed.
 Next I searched for "MotoGP circuit 2025". This gave me a site that tracked the schedules for the 2025 races.
 
 <p align="center">
-  <img src="MOTOGP-2.jpeg" width="600" height="700">
+  <img src="MOTOGP-2.png" width="600" height="700">
 </p>
 
 I opened the site and knew what timeline I was looking for, so I scrolled down to October. The races took place in Indonesia in October, so I clicked on the dropdown which gave me the event type, date and time of the events that took place.
 
 <p align="center">
-  <img src="MOTOGP-3.jpeg" width="600" height="700">
+  <img src="MOTOGP-3.png" width="600" height="700">
 </p>
 
 From the schedule there were two events, the warm up and the race itself, giving two possibilities to identify the circuit that was in the image. But the assumptions were easily cleared by looking at the time. The image was taken at around `12:33:12` *(see Exiftool metadata above)*, and the scheduled time for the race event was at 10. This meant the image was most likely taken during the main race itself.
@@ -98,14 +98,30 @@ From the schedule there were two events, the warm up and the race itself, giving
 Now that I identified the location, date and event: it would be easy to make a simple google search "INDONESIAN GP 2025 OCTOBER 5 RACE" and get the required flag.
 
 <p align="center">
-  <img src="MOTOGP-4.jpeg" width="600" height="700">
+  <img src="MOTOGP-4.png" width="600" height="700">
 </p>
 
 In the site description of the event wiki, the details of the circuit at which the event took place was mentioned. I opened the website to confirm the find.
 
 <p align="center">
-  <img src="MOTOGP-5.jpeg" width="600" height="700">
+  <img src="MOTOGP-5.png" width="600" height="700">
 </p>
+
+The first flag was 
+```text
+Pertamina Mandalika International Circuit
+```
+
+Now, looking at the second flag I had to find, we need to go back the schedule:
+
+<p align="center">
+  <img src="MOTOGP-6.png" width="600" height="700">
+</p>
+
+The schedule clearly contained the date of the first event and the last event. Hence the required flag was
+```text
+03-05/10/2025
+```
 
 ---
 

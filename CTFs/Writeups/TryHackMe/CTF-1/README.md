@@ -142,7 +142,7 @@ After looking around for a while I noticed words on the table.
 Cantina Mexicana
 ```
 
-Clearly the restaurant branding is on the table and thus I had flag 3 as
+Clearly the restaurant branding is on the table and after verifying on Google Maps, I had flag 3 as
 ```text
 Cantina Mexicana
 ```

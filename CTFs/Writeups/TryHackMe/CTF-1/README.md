@@ -125,37 +125,52 @@ The schedule clearly contained the date of the first event and the last event. H
 
 ---
 
-### Searching for the location
+### Flags 3 and 4
 
-After identifying the clues, I searched for the text I saw on the building along with "Paris" to narrow the search in Google Maps.
+For flags 3 and 4, I needed to move onto the next image. I will embed the image again for the sake of not having to constantly scroll.
 
 <p align="center">
-  <img src="MM-loc3.jpeg" width="600" height="700">
+  <img src="MP-2.png" width="600" height="700">
 </p>
 
-Then I zoomed into each search location to find an intersection point of an Avenue and a Rue, as specified by the challenge. 
+After looking around for a while I noticed words on the table.
 
-One location 
+
+<p align="center">
+  <img src="CM-1.png" width="600" height="700">
+</p>
+
 ```text
-Maison julien
+Cantina Mexicana
 ```
-stood out, with an intersection of an Avenue and a Rue.
+
+Clearly the restaurant branding is on the table and thus I had flag 3 as
+```text
+Cantina Mexicana
+```
+
+For flag 4, we just look at the metadata of the image using Exiftool
 
 <p align="center">
-  <img src="MM-loc2.jpeg" width="500" height="700">
+  <img src="CM-2.png" width="600" height="700">
 </p>
 
-Next I switched to satellite view to find any visible comparison of the top view and the given image. The tree and zebra-crossing in Google Maps seemed to match the tree and zebra-crossing I could see in the image. I was convinced that I must've found the location due to clues matching the information.
+The time is in the metadata of the image under `Date/Time Original:`. Hence we have flag 4 as
+```text
+19:55:30
+```
 
 ---
 
-### Verification
+### Flags 5 and 6
 
-After I suspected the location, I investigated it using Google Street View. The building on street view was evidently the same, and I spotted the same piece of text I saw as an initial clue. I also noticed the same structural identifiers I had noted from the image provided by the challenge.
 
-<p align="center">
-  <img src="MM-1.png" width="700" height="700">
-</p>
+For flags 5 and 6, a piece of text was given on the challenge page.
+```text
+He sent me a message, this is the last I heard from him: ”Went to this cool MotoGP after party, and became friends with one of the local DJs who played that night. We’re going to visit a cave tomorrow.”
+```
+
+
 
 ---
 

@@ -68,7 +68,7 @@ I first opened the MotoGP image file, because it corresponded with the first fla
 ### Flags 1 and 2
 
 
-The file name "MotoGP" was a takeaway on what I would be looking for, MotoGP stands for "Motorcycle Grand Prix". Using Google, I searched for "PERTAMINA MotoGP", "PERTAMINA" comes from the text in the given image. The search had a vast range of results that I would have to filter through.
+The file name "MotoGP" was the initial clue on what I would be looking for, MotoGP stands for "Motorcycle Grand Prix". Using Google, I searched for "PERTAMINA MotoGP", "PERTAMINA" comes from the text in the given image. The search had a vast range of results that I would have to filter through.
 
 My next thought was to use Exiftool to see if the image metadata contained the image creation date, which would give me the timeline I would be looking for, and it did.
 

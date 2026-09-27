@@ -10,27 +10,27 @@
 
 ## Challenge Objective
 
-What is the commercial name of this circuit?
+**What is the commercial name of this circuit?**
 Format: English, full commercial name.
 
-When did the event take place?
+**When did the event take place?**
 Format: DD-DD/MM/YYYY.
 
-He told me he ate delicious Mexican food. What is the name of the restaurant?
+**He told me he ate delicious Mexican food. What is the name of the restaurant?**
 
-At what time was this photo taken?
+**At what time was this photo taken?**
 Format: HH:MM:SS.
 
 ```text
 He sent me a message, this is the last I heard from him: ”Went to this cool MotoGP after party, and became friends with one of the local DJs who played that night. We’re going to visit a cave tomorrow.”
 ```
-What is the full address of the bar’s location?
+**What is the full address of the bar’s location?**
 
-What is the DJ's stage name?
+**What is the DJ's stage name?**
 
-After digging into the DJ's other online accounts, what cave does he take tourists to?
+**After digging into the DJ's other online accounts, what cave does he take tourists to?**
 
-What number did the DJ list for his tour business?
+**What number did the DJ list for his tour business?**
 Format: Full number, no country code.
 
 ---

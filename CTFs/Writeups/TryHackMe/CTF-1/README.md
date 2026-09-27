@@ -4,7 +4,7 @@
 **Category:** OSINT   
 **Difficulty:** Easy  
 **Date Solved:** 27-09-2026  
-**Tools used:** Exiftool,
+**Tools used:** Exiftool, Google, Google Maps
 
 ---
 
@@ -45,32 +45,67 @@ Download the zip file attached to this task and start your investigation!
 Contents of zip file were 2 images
 ```
 
+<p align="center">
+  <img src="MP-1.jpeg" width="600" height="700">
+</p>
+
+
+<p align="center">
+  <img src="MP-2.jpeg" width="600" height="700">
+</p>
 
 
 ---
 
-## Initial Analysis
+## Initial Analysis-1
 
-I looked for unique identifiers such as visible text, shop or restaurant names, street signs, architectural features, and other distinctive structures that could help narrow down the location.
+I first opened the MotoGP image file, because it corresponded with the first flags.
 
 ---
 
 ## Investigation
 
-### Finding Clues
+### Flags 1 and 2
 
 
-Upon searching for clues, I came across a piece of text on a building that was just barely visible.
+The file name "MotoGP" was a takeaway on what I would be looking for, MotoGP stands for "Motorcycle Grand Prix". Using Google, I searched for "PERTAMINA MotoGP", "PERTAMINA" comes from the text in the given image. The search had a vast range of results that I would have to filter through.
+
+My next thought was to use Exiftool to see if the image metadata contained the image creation date, which would give me the timeline I would be looking for, and it did.
 
 <p align="center">
-  <img src="MM-find.png" width="700" height="700">
+  <img src="MOTOGP-1.jpeg" width="600" height="700">
 </p>
 
 ```text
-JULIEN
+2025:10:05
 ```
+The timeline I should be looking for was revealed.
 
-The challenge also explicitly mentioned the location was in Paris.
+Next I searched for "MotoGP circuit 2025". This gave me a site that tracked the schedules for the 2025 races.
+
+<p align="center">
+  <img src="MOTOGP-2.jpeg" width="600" height="700">
+</p>
+
+I opened the site and knew what timeline I was looking for, so I scrolled down to October. The races took place in Indonesia in October, so I clicked on the dropdown which gave me the event type, date and time of the events that took place.
+
+<p align="center">
+  <img src="MOTOGP-3.jpeg" width="600" height="700">
+</p>
+
+From the schedule there were two events, the warm up and the race itself, giving two possibilities to identify the circuit that was in the image. But the assumptions were easily cleared by looking at the time. The image was taken at around `12:33:12` *(see Exiftool metadata above)*, and the scheduled time for the race event was at 10. This meant the image was most likely taken during the main race itself.
+
+Now that I identified the location, date and event: it would be easy to make a simple google search "INDONESIAN GP 2025 OCTOBER 5 RACE" and get the required flag.
+
+<p align="center">
+  <img src="MOTOGP-4.jpeg" width="600" height="700">
+</p>
+
+In the site description of the event wiki, the details of the circuit at which the event took place was mentioned. I opened the website to confirm the find.
+
+<p align="center">
+  <img src="MOTOGP-5.jpeg" width="600" height="700">
+</p>
 
 ---
 

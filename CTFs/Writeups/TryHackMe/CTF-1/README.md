@@ -79,7 +79,7 @@ My next thought was to use Exiftool to see if the image metadata contained the i
 ```text
 2025:10:05
 ```
-The timeline I should be looking for was revealed.
+Now I narrowed down my search using this clue.
 
 Next I searched for "MotoGP circuit 2025". This gave me a site that tracked the schedules for the 2025 races.
 

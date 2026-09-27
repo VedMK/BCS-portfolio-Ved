@@ -93,9 +93,7 @@ I opened the site and knew what timeline I was looking for, so I scrolled down t
   <img src="MOTOGP-3.png" width="600" height="700">
 </p>
 
-From the schedule there were two events, the warm up and the race itself, giving two possibilities to identify the circuit that was in the image. But the assumptions were easily cleared by looking at the time. The image was taken at around `12:33:12` *(see Exiftool metadata above)*, and the scheduled time for the race event was at 10. This meant the image was most likely taken during the main race itself.
-
-Now that I identified the location, date and event: it would be easy to make a simple google search "INDONESIAN GP 2025 OCTOBER 5 RACE" and get the required flag.
+Now that I identified the location and date: it would be easy to make a simple google search "INDONESIAN GP 2025 OCTOBER 5 RACE" and get the required flag.
 
 <p align="center">
   <img src="MOTOGP-4.png" width="600" height="700">

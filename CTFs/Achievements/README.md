@@ -36,9 +36,9 @@ This folder tracks my CTF platform profiles and competitive cybersecurity achiev
 
 ---
 
-## Achievement 1
+## Achievements
 
-Achieved <1000 rank in [CTF OSINT INDUSTRIES](https://ctf.osint.industries).
+<1000 rank in [ctf.osint.industries](https://ctf.osint.industries).
 
 <p align="center">
   <img src="Progress1.png" width="600" height="700">

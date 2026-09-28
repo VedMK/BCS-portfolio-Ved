@@ -3,30 +3,33 @@
 </p>
 
 ---
+<p align="center">
 
-## Platforms I'm majorly learning on: *(click badges to view my account)*
+  ## Platforms I'm majorly learning on:
+
+</p>  
 <p align="center">
   <a href="https://profile.hackthebox.com/profile/019eff7a-3185-7083-ad8f-1639a0dafa19?utm_medium=copy_url" target="_blank">
-    <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox Profile">
+    <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white">
   </a>
 </p>
 
 <p align="center">
   <a href="https://tryhackme.com/p/VKCyber" target="_blank">
-    <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="HackTheBox Profile">
+    <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
   </a>
 </p>
 
 <p align="center">
   <a href="https://ctf.osint.industries/users/9906" target="_blank">
-    <img src="https://img.shields.io/badge/OSINT%20Industries-111111?style=for-the-badge&logo=googleearth&logoColor=white" alt="OSINT Industries Profile">
+    <img src="https://img.shields.io/badge/OSINT%20Industries-111111?style=for-the-badge&logo=googleearth&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://learn.cylabacademy.org/users/VKCyber" target="_blank">
-    <img src="https://img.shields.io/badge/CyLab%20Security%20Academy-6C2DC7?style=for-the-badge&logoColor=white" alt="CyLab Security Academy Profile">
-  </a>
+<a href="https://learn.cylabacademy.org/users/VKCyber" target="_blank">
+  <img src="https://img.shields.io/badge/CyLab%20Security%20Academy-FF8C00?style=for-the-badge&logoColor=white">
+</a>
 </p>
 
 This folder tracks my CTF platform profiles and competitive cybersecurity achievements.

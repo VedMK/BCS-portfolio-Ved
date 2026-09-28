@@ -7,10 +7,10 @@
 ![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=black)
 ![OSINT](https://img.shields.io/badge/OSINT-FFD700?style=for-the-badge&logo=googleearth&logoColor=black)
-![Web%20Security](https://img.shields.io/badge/Web%20Security-FFD700?style=for-the-badge&logo=owasp&logoColor=black)
+![WebSecurity](https://img.shields.io/badge/Web%20Security-FFD700?style=for-the-badge&logo=owasp&logoColor=black)
 ![Cryptography](https://img.shields.io/badge/Cryptography-FFD700?style=for-the-badge&logo=letsencrypt&logoColor=black)
-![Reverse%20Engineering%20](https://img.shields.io/badge/Reverse%20Engineering%20↩️-FFD700?style=for-the-badge&logo=ghidra&logoColor=black)
-![LLM%20Security%20](https://img.shields.io/badge/LLM%20Security%20🤖-FFD700?style=for-the-badge&logo=openai&logoColor=black)
+![Reverse%20Engineering%20](https://img.shields.io/badge/↩️%20Reverse%20Engineering-FFD700?style=for-the-badge&logo=ghidra&logoColor=black)
+![LLM%20Security%20](https://img.shields.io/badge/🤖%20LLM%20Security-FFD700?style=for-the-badge&logo=openai&logoColor=black)
 
 </div>
 

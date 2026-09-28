@@ -3,11 +3,9 @@
 </p>
 
 ---
-<p align="center">
 
- Platforms I'm majorly learning on
 
-</p>  
+## Platforms I'm majorly learning on
 <p align="center">
   <a href="https://profile.hackthebox.com/profile/019eff7a-3185-7083-ad8f-1639a0dafa19?utm_medium=copy_url" target="_blank">
     <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white">

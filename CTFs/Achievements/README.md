@@ -30,6 +30,8 @@
 </a>
 </p>
 
+*(Click the badges to view my profiles)*
+
 This folder tracks my CTF platform profiles and competitive cybersecurity achievements.
 
 ---

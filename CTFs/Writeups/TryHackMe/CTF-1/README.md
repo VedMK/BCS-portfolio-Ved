@@ -109,7 +109,7 @@ In the site description of the event wiki, the details of the circuit at which t
 
 The first flag was 
 ```text
-Pertamina Mandalika International Circuit
+Pertamina Mandalika International Street Circuit
 ```
 
 Now, looking at the second flag I had to find, we need to go back the schedule:

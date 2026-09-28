@@ -32,15 +32,10 @@ I also have a [YouTube channel](https://www.youtube.com/@VK-Cyber) where I post 
 ---
 
 <p align="center">
-<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22My%20Progress%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.055%2C%22deleteSpeed%22%3A0.08%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
+<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22What%20I've%20learnt%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.055%2C%22deleteSpeed%22%3A0.08%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
-## 🌐 Web Application Security
-
-I'm currently focusing on web vulnerabilities and penetration testing.
-
-Some of the vulnerabilities I'm learning about include:
-
+### Web Vulnerabilities
 <details>
 <summary><b>Web vulnerabilities I'm learning</b></summary>
   
@@ -57,9 +52,43 @@ Some of the vulnerabilities I'm learning about include:
 
 </details>
 
-I've completed **~50 labs on PortSwigger Web Security Academy**, using them to gain practical experience and a better understanding of common web vulnerabilities.
+### OSINT
 
-I'm also documenting some of the things I learn through writeups in my repository.
+<details>
+<summary><b>OSINT areas and techniques I'm learning</b></summary>
+
+- GEOINT *(Geolocation)*
+- SOCMINT *(Social Media Intelligence)*
+- Reverse image searching
+- Metadata analysis with ExifTool
+- Location verification using Google Maps and Street View
+- Timeline reconstruction
+- Cross referencing clues from many public sources
+
+</details>
+
+### Cryptography
+<details>
+<summary><b>Cryptographic encodings and ciphers I'm learning</b></summary>
+
+- All Base-n encodings
+- Binary and ASCII representation
+- Caesar shift ciphers
+- RSA basics
+
+</details>
+
+### LLM
+<details>
+<summary><b>LLM vulnerabilities I'm learning</b></summary>
+
+- Prompt injection
+- Jailbreaking basics
+- LLM instruction boundaries
+- Weak authentication in AI systems
+- Understanding how LLMs process prompts and context
+
+</details>
 
 ---
 
@@ -89,12 +118,12 @@ I have a basic understanding of networking fundamentals and am continuing to bui
 
 | Topic | Concept |
 |---|---|
-| 🌐 TCP/IP | Network communication and protocols |
-| 🔗 HTTP/HTTPS | Web communication |
-| 🌍 DNS | Domain name resolution |
-| 🔌 Ports & Protocols | Services and network communication |
-| 📍 IP Addressing | IPv4 and network addressing |
-| 🖧 Network Communication | How devices communicate |
+|  TCP/IP | Network communication and protocols |
+|  HTTP/HTTPS | Web communication |
+|  DNS | Domain name resolution |
+|  Ports & Protocols | Services and network communication |
+|  IP Addressing | IPv4 and network addressing |
+|  Network Communication | How devices communicate |
 
 
 ---

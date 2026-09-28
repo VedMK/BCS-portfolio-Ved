@@ -101,7 +101,7 @@ This verified the initial search result I got from Google.
   <img src="Hol4.png" width="600" height="700">
 </p>
 
-The key creation date usually matches the account creation date, and hence the account creation date should be
+The PGP key creation date supported the evidence of the creation date with the email account.
 ```text
 14-01-2021
 ```
@@ -110,7 +110,7 @@ The key creation date usually matches the account creation date, and hence the a
 
 ### Capturing the flag
 
-After verifying the key creation date using the PGP key and the search results, I obtained the flag, which was the date of creation.
+After I got supporting evidence for the account creation date from the Google search, I obtained the flag, which was the date of creation.
 
 The challenge was solved and using the format given by the CTF platform, the final flag I captured was
 

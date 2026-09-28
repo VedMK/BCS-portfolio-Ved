@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" href="https://profile.hackthebox.com/profile/019eff7a-3185-7083-ad8f-1639a0dafa19?utm_medium=copy_url">
+  <a href="https://profile.hackthebox.com/profile/019eff7a-3185-7083-ad8f-1639a0dafa19?utm_medium=copy_url" target="_blank">
+    <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox Profile">
+  </a>
 </p>
 
 - [My TryHackMe Account](https://tryhackme.com/p/VKCyber)

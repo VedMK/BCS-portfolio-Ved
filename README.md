@@ -176,7 +176,8 @@ I also want to thank my parents for supporting and motivating me to keep learnin
 
 <div align="center">
 
-**Thanks for reading my cybersecurity portfolio**
+**Thanks
+ you for taking time to read this**
 
 Feel free to go through my work!
 

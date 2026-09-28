@@ -17,15 +17,13 @@
   </a>
 </p>
 
----
-
-## Other platforms I use to learn:
-
 <p align="center">
   <a href="https://ctf.osint.industries/users/9906" target="_blank">
     <img src="https://img.shields.io/badge/OSINT%20Industries-111111?style=for-the-badge&logo=googleearth&logoColor=white" alt="OSINT Industries Profile">
   </a>
+</p>
 
+<p align="center">
   <a href="https://learn.cylabacademy.org/users/VKCyber" target="_blank">
     <img src="https://img.shields.io/badge/CyLab%20Security%20Academy-6C2DC7?style=for-the-badge&logoColor=white" alt="CyLab Security Academy Profile">
   </a>

@@ -64,7 +64,7 @@ I'm also documenting some of the things I learn through writeups in my repositor
 ---
 
 <p align="center">
-<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22%F0%9F%90%A7%20Linux%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.06333333333333333%2C%22deleteSpeed%22%3A0.08%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
+<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Linux%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.06333333333333333%2C%22deleteSpeed%22%3A0.08%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
 I have a basic understanding of Linux and am continuing to improve my command line skills, system administration knowledge, and understanding of Linux as a whole.
@@ -82,7 +82,7 @@ Some of the areas I've been learning include:
 ---
 
 <p align="center">
-<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22%F0%9F%96%A7%20Networking%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.055%2C%22deleteSpeed%22%3A0.08%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
+<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Networking%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.055%2C%22deleteSpeed%22%3A0.08%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
 I have a basic understanding of networking fundamentals and am continuing to build my knowledge.
@@ -100,7 +100,7 @@ I have a basic understanding of networking fundamentals and am continuing to bui
 ---
 
 <p align="center">
-<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Python%20projects%20%F0%9F%90%8D%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.045%2C%22deleteSpeed%22%3A0.08%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
+<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Python%20projects%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.045%2C%22deleteSpeed%22%3A0.08%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
 I've made a few cybersecurity related projects with python to demonstrate what I've learnt over the time.

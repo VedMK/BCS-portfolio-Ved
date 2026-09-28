@@ -1,4 +1,4 @@
-# Missing Person
+<img width="347" height="320" alt="image" src="https://github.com/user-attachments/assets/3cea5967-0e38-41e9-8011-582b4a43010a" /><img width="903" height="468" alt="image" src="https://github.com/user-attachments/assets/fd9422e8-07d2-4f38-a18c-d6fd60310c59" /># Missing Person
 
 **Platform:** TryHackMe  
 **Category:** OSINT   
@@ -168,11 +168,96 @@ For flags 5 and 6, a piece of text was given on the challenge page.
 He sent me a message, this is the last I heard from him: ”Went to this cool MotoGP after party, and became friends with one of the local DJs who played that night. We’re going to visit a cave tomorrow.”
 ```
 
+The information I'm looking for is given in the message above. Using Google, i searched for "MotoGP After party october 5 2025" which gave me 3 top results. 
 
+
+<p align="center">
+  <img src="MS-1.png" width="600" height="700">
+</p>
+
+The megatix site had event details that strongly matched the event details which I got for flags 1 and 2. 
+
+Upon visiting the site, I found the venue to the after party mentioned on the main page
+
+
+<p align="center">
+  <img src="MS-2.png" width="600" height="700">
+</p>
+
+```text
+Kuta, Pujut, Central Lombok Regency, West Nusa Tenggara 83573, West Nusa Tenggara, 83573
+```
+
+Now I knew where the event is taking place, I needed to find the name of bar where it took place and it's exact location. I proceeded with a Google search by searching for
+```text
+Bar at Kuta, Pujut, Central Lombok Regency, West Nusa Tenggara 83573, West Nusa Tenggara, 83573
+```
+
+3 locations came up from the search.
+
+<p align="center">
+  <img src="MS-3.png" width="600" height="700">
+</p>
+
+Upon surface level reviewing of the bars at the location, Surfer's bar stood out with a description "Bar offering live DJ sports and cocktails".
+
+<p align="center">
+  <img src="MS-4.png" width="600" height="700">
+</p>
+
+After suspecting the location, I made another search "Surfers bar MotoGP after party 2025", where I found Surfer's bar's Instagram post with the description which can be seen in the image below.
+
+<p align="center">
+  <img src="MS-5.png" width="600" height="700">
+</p>
+
+This confirm's the location was Surfer's bar. Going back to the locations we got, upon clicking the Surfer's bar, I had flag 5 as
+
+<p align="center">
+  <img src="MS-6.png" width="600" height="700">
+</p>
+
+```text
+Jl. Raya Kuta, Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Bar
+```
+*without "Indonesia" because of the flag format*
+
+For flag 6, we go back to the Instagram post made by Surfer's bar. Watching the video in the post, the DJ's name is mentioned, where I had flag 6 as
+
+<p align="center">
+  <img src="MS-7.png" width="600" height="700">
+</p>
+
+```text
+Bong Leleh
+```
+
+### Flags 7 and 8
+
+I then searched for caves near Surfer's bar on Google Maps. Which gave me 2 plausible answers.
+
+<p align="center">
+  <img src="MS-8.png" width="600" height="700">
+</p>
+
+I first searched for "Gua Sumur Bong Leleh", after scrolling through search results I came across Bong Leleh's Facebook page with the cave name. The post confirmed that the cave I was looking for was Gua Sumur, and the post description also had the contact number for his tour business in the post description.
+
+<p align="center">
+  <img src="MS-9.png" width="600" height="700">
+</p>
+
+Now I had the final two flags as
+```text
+Gua Sumur
+```
+and
+```text
+85333137345
+```
 
 ---
 
-### Capturing the flag
+### 
 
 Once I verified and confirmed the location in the challenge image, I zoomed out near the location on Google Maps and spotted a metro station right across the street.
 

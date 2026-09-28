@@ -8,8 +8,15 @@
   </a>
 </p>
 
-- [My TryHackMe Account](https://tryhackme.com/p/VKCyber)
-- [My Hack The Box Account]
+<p align="center">
+  <a href="https://tryhackme.com/p/VKCyber" target="_blank">
+    <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="HackTheBox Profile">
+  </a>
+</p>
+
+![OSINT Industries](https://shields.io)
+
+
 - [My OSINT-Industries Account](https://ctf.osint.industries/users/9906)
 - [My CyLab Security Academy(PicoCTF) Account](https://learn.cylabacademy.org/users/VKCyber) 
 

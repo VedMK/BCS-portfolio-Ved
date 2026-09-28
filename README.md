@@ -14,7 +14,7 @@
 
 </div>
 
-Hi! I'm Ved, a Grade 12 student, aspiring Cloud Security Engineer, cyber security enthusiast and just a guy who wants to make systems secure by learning how I can break them.
+Hi! I'm Ved, a Grade 12 student, programming enthusiast, cyber security enthusiast, aspiring Cloud Security Engineer and just a guy who wants to make systems secure by learning how I can break them.
 
 This repository contains everything I've learnt and am learning with the POV of a cybersecurity enthusiast.
 

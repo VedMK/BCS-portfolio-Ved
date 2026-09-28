@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white">
+<img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" href="https://profile.hackthebox.com/profile/019eff7a-3185-7083-ad8f-1639a0dafa19?utm_medium=copy_url">
 </p>
 
 - [My TryHackMe Account](https://tryhackme.com/p/VKCyber)
-- [My Hack The Box Account](https://profile.hackthebox.com/profile/019eff7a-3185-7083-ad8f-1639a0dafa19?utm_medium=copy_url)
+- [My Hack The Box Account]
 - [My OSINT-Industries Account](https://ctf.osint.industries/users/9906)
 - [My CyLab Security Academy(PicoCTF) Account](https://learn.cylabacademy.org/users/VKCyber) 
 

@@ -5,7 +5,7 @@
 ---
 <p align="center">
 
-## Platforms I'm majorly learning on:
+ Platforms I'm majorly learning on
 
 </p>  
 <p align="center">

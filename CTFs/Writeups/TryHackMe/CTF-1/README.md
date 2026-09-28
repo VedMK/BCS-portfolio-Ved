@@ -1,10 +1,12 @@
-<img width="347" height="320" alt="image" src="https://github.com/user-attachments/assets/3cea5967-0e38-41e9-8011-582b4a43010a" /><img width="903" height="468" alt="image" src="https://github.com/user-attachments/assets/fd9422e8-07d2-4f38-a18c-d6fd60310c59" /># Missing Person
+# Missing Person
 
 **Platform:** TryHackMe  
 **Category:** OSINT   
-**Difficulty:** Easy  
+**Difficulty:** Easy-Medium
 **Date Solved:** 27-09-2026  
 **Tools used:** Exiftool, Google, Google Maps
+
+**PLEASE NOTE:** This is is a very detailed write up on the methodology and findings I used and came across while doing this challenge. Every flag was found according to the challenge requirements.
 
 ---
 
@@ -57,7 +59,7 @@ Contents of zip file were 2 images
 
 ---
 
-## Initial Analysis-1
+## Initial Analysis
 
 I first opened the MotoGP image file, because it corresponded with the first flags.
 
@@ -257,16 +259,19 @@ and
 
 ---
 
-### 
+## Conclusion
 
-Once I verified and confirmed the location in the challenge image, I zoomed out near the location on Google Maps and spotted a metro station right across the street.
+I identified and verified all information i obtained. I submitted every flag and solved the CTF.
 
-<p align="center">
-  <img src="MM-2.png" width="700" height="700">
-</p>
+Major OSINT techniques that this CTF taught me:
 
-The challenge was solved and using the format given by the CTF platform, the final flag I captured was
+- Image analysis
+- Metadata analysis using ExifTool
+- Search engine research
+- Google Maps investigation
+- Social media investigation
+- Location verification
+- Event research
+- Cross reference verification
 
-```text
-OSINT{SAINT_PHILIPPE_DU_ROULE}
-```
+The main lesson to be taught from this CTF is that information you obtain should be verified before being finalized as evidence.

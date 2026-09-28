@@ -55,7 +55,7 @@ I also have a [YouTube channel](https://www.youtube.com/@VK-Cyber) where I post 
 ### OSINT
 
 <details>
-<summary><b>OSINT areas and techniques I'm learning</b></summary>
+<summary><b>OSINT types and techniques I'm learning</b></summary>
 
 - GEOINT *(Geolocation)*
 - SOCMINT *(Social Media Intelligence)*
@@ -80,7 +80,7 @@ I also have a [YouTube channel](https://www.youtube.com/@VK-Cyber) where I post 
 
 ### LLM
 <details>
-<summary><b>LLM vulnerabilities I'm learning</b></summary>
+<summary><b>LLM related topics I'm learning</b></summary>
 
 - Prompt injection
 - Jailbreaking basics

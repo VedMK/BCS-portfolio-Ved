@@ -24,7 +24,7 @@ This repository contains everything I'm learning with the POV of a cybersecurity
 <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22About%20Me%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.06333333333333333%2C%22deleteSpeed%22%3A0.08%7D%5D&font=JetBrains%20Mono&backgroundColor=%23000000&width=900&height=200&pause=3500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&fontWeight=600&backgroundOpacity=1">
 </p>
 
-I've been interested in cybersecurity since 2025, where I started off watching videos on vulnerabilities and systems being hacked, out of which nothing I understood. Slowly but surely I brought myself to use TryHackMe, make my first Kali VM and actually start working on building my basics, after which I began making this portfolio to pursue my future in cyber security. 
+I've been interested in cybersecurity since 2025, where I started off watching videos on vulnerabilities and systems being hacked, out of which nothing I understood. Slowly but surely I brought myself to use TryHackMe, make my first Kali VM and actually start working on building my basics, after which I began making this portfolio to pursue my future in cyber security. I have bias towards OSINT, it is addictive..
 
 Technical information comes next:
 

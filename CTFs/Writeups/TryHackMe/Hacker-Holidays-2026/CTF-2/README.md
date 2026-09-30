@@ -76,7 +76,7 @@ VEhNe1YzckBzX2FDQzB1bnRfaDRzX2IzM25fZjB1bmQhfQ==
 
 ## Capturing the flag
 
-Clearly the text obtained earlier was base64 encoded. So I opened cyberchef, pasted the text in the input and entered "From Base64" into the recipe. The decoded text gave mt the flag.
+Clearly the text obtained earlier was base64 encoded. So I opened cyberchef, pasted the text in the input and entered "From Base64" into the recipe. The decoded text gave my the flag.
 
 <p align="center">
   <img src="BR-6.png" width="600" height="700">

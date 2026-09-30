@@ -14,7 +14,7 @@ Follow the trail, uncover the hidden connection, and find what was left behind.
 
 *Task files were to be downloaded, which upon downloading gave below image*
 
-![tasl](thebrochure.png)
+![BR](thebrochure.png)
 
 ## Challenge Objective
 

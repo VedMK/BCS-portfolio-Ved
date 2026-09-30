@@ -3,7 +3,7 @@
 **Platform:** TryHackMe  
 **CTF:** Hacker Holidays 2026 Day 3   
 **Category:** OSINT/SOCINT    
-**Difficulty:** Very Easy
+**Difficulty:** Very Easy  
 **Tools used:** Google
 
 ## Challenge information

@@ -14,7 +14,10 @@ Follow the trail, uncover the hidden connection, and find what was left behind.
 
 *Task files were to be downloaded, which upon downloading gave below image*
 
-![BR](thebrochure.png)
+<p align="center">
+  <img src="thebrochure.png" width="600" height="700">
+</p>
+
 
 ## Challenge Objective
 
@@ -42,17 +45,29 @@ on google.
 
 The top most site was an Instagram account.
 
-![VERA](BR-1.png)
+<p align="center">
+  <img src="BR-1.png" width="600" height="700">
+</p>
 
 When I clicked on the link, the account was evidently related to the CTF. It was VERA's account. 
 
-![BR](BR-2.png)
+<p align="center">
+  <img src="BR-2.png" width="600" height="700">
+</p>
 
 The three and only posts on the account contained text:
 
-![BR](BR-3.png)
-![BR](BR-4.png)
-![BR](BR-5.png)
+<p align="center">
+  <img src="BR-3.png" width="600" height="700">
+</p>
+
+<p align="center">
+  <img src="BR-4.png" width="600" height="700">
+</p>
+
+<p align="center">
+  <img src="BR-5.png" width="600" height="700">
+</p>
 
 combining the text from each post in order gave
 ```text
@@ -63,7 +78,9 @@ VEhNe1YzckBzX2FDQzB1bnRfaDRzX2IzM25fZjB1bmQhfQ==
 
 Clearly the text obtained earlier was base64 encoded. So I opened cyberchef, pasted the text in the input and entered "From Base64" into the recipe. The decoded text gave mt the flag.
 
-![BR](BR-6.png)
+<p align="center">
+  <img src="BR-6.png" width="600" height="700">
+</p>
 
 ```text
 THM{V3r@s_aCC0unt_h4s_b33n_f0und!}

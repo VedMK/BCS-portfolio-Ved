@@ -8,6 +8,6 @@
 
 <p align="center">
 <a href="IBM_CYBER_CERT.pdf">
-  <img src="IBM_CYBER_CERT.jpg" alt="PDF Preview" width="500" height="500" />
+  <img src="IBM_CYBER_CERT.jpg" alt="PDF Preview" width="700" height="700" />
 </a>
 </p>

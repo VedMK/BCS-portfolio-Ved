@@ -6,4 +6,4 @@
 
 ## Below are recognized certifications I have obtained
 
-[![Cert 1](IBM_CYBER_CERT.jpeg)](IBM_CYBER_CERT.pdf)
+[![Cert 1](IBM_CYBER_CERT.jpg)](IBM_CYBER_CERT.pdf)

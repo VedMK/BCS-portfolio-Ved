@@ -6,4 +6,6 @@
 
 ## Below are recognized certifications I have obtained
 
-[![Cert 1](IBM_CYBER_CERT.jpg)](IBM_CYBER_CERT.pdf)
+<a href="IBM_CYBER_CERT.pdf">
+  <img src="IBM_CYBER_CERT.jpg" alt="PDF Preview" width="500" height="500" />
+</a>

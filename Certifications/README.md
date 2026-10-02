@@ -6,6 +6,8 @@
 
 ## Below are recognized certifications I have obtained
 
+<p align="center">
 <a href="IBM_CYBER_CERT.pdf">
   <img src="IBM_CYBER_CERT.jpg" alt="PDF Preview" width="500" height="500" />
 </a>
+</p>
